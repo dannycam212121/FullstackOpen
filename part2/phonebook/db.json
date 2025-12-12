@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "622178832",
+      "id": "1"
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": "2"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": "3"
+    },
+    {
+      "id": "d1f6",
+      "name": "Ramera Gutiérrez",
+      "number": "684578954"
+    },
+    {
+      "id": "4e7c",
+      "name": "Elver Galarga",
+      "number": "78945784-800"
+    },
+    {
+      "id": "5fd1",
+      "name": "Rosa Melano",
+      "number": "159159-159"
+    }
+  ]
+}
